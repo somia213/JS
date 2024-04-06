@@ -34,5 +34,3 @@ addText.addEventListener("click", function () {
 }
 });
 form2.appendChild(xul);
-
-console.log("test")
